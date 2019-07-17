@@ -1,2 +1,1 @@
-# python
-笨办法学Python笔记
+# python自学、分享
