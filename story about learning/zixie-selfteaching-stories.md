@@ -1,9 +1,10 @@
 
 2019-7-21  exercise21/22/23
 - exercise22 复习
-序号 | 需求详情 | 提报人
- ---- | ----| ----
- left | center | right 
+
+ 序号 | 需求详情 | 提报人
+:---| :----: | ----: |
+left | center | right
 - exercise23 阅读项目代码
 
 
