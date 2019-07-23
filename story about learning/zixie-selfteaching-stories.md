@@ -1,4 +1,6 @@
-2019-7-21 exercise24/25
+2019-7-23 exercise27/28
+***
+2019-7-22 exercise24/25
 ***
 2019-7-21  exercise21/22/23
 - exercise22 复习
