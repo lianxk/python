@@ -1,3 +1,7 @@
+2019-7-24 exercise30
+stackoverflow：https://stackoverflow.com/ <br>
+如何优雅的使用stackoverflow：https://www.zhihu.com/question/20824615
+***
 2019-7-23 exercise27/28/29
 ***
 2019-7-22 exercise24/25
